@@ -1,1 +1,1 @@
-# Test-Repository - commit changes of new beginner !
+# Test-Repository - commit changes of !
